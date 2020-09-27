@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="f0324b82-9d83-437a-ad9a-dc22a9b1a961" name="customer_site" url="http://vh42.timeweb.ru">
+        <fileTransfer host="vh42.timeweb.ru" port="21" rootFolder="/wordpress_4/public_html" password="dfccdf9edff2dfe0df92df93dfc1df93" username="osamoto_ilia">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
